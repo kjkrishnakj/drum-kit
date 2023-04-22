@@ -1,0 +1,114 @@
+body{
+    background-color: black;
+    background-image: url(drum\ set.jpg);
+}
+h1{
+    position: absolute;
+    right: 42%;
+    color: #37b9f1;
+}
+.b1{
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    padding: 60px;
+    border-width: 8px;
+    border-radius: 10px;
+    border-color: gray;
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    background-image: url("images/crash.png");
+}
+
+.b2{
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    border-width: 8px;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    background-image: url("images/kick.png");
+}
+
+.b3{
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    border-width: 8px;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    background-image: url("images/snare.png");
+}
+
+.b4{
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    border-width: 8px;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    
+    background-image: url("images/tom1.png");
+}
+
+.b5{
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    border-width: 8px;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    background-image: url("images/tom2.png");
+}
+
+.b6{
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    border-width: 8px;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    
+    background-image: url("images/tom3.png");
+}
+.b7{
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    border-width: 8px;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 89%;
+    
+    background-image: url("images/tom4.png");
+}
+
+
+
+
+
+
